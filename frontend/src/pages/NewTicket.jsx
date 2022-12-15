@@ -53,7 +53,7 @@ function NewTicket() {
 							className='form-control'
 							placeholder='Description...'
 							value={description}
-							onChange={e => e.target.value}
+							onChange={e => setDescription(e.target.value)}
 						></textarea>
 					</div>
 					<div className='form-group'>

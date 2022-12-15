@@ -8,7 +8,7 @@ function Home() {
 				<h1>Do you need any support?</h1>
 				<p>Please choose an option below</p>
 
-				<Link to='/new-ticket' className='btn btn-reserve btn-block'>
+				<Link to='/new-ticket' className='btn btn-reverse btn-block'>
 					<FaQuestionCircle /> Create new ticket
 				</Link>
 

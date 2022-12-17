@@ -41,6 +41,7 @@ h3 {
 	margin: 0 auto;
 	padding: 0 20px;
 	text-align: center;
+	min-height: calc(100vh - 116px);
 }
 
 .header {

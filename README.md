@@ -6,6 +6,7 @@
 ## Tecnologias utilizadas:
 
 - React
+- Redux Toolkit
 - Node.JS
 - Express
 - MongoDB

@@ -350,9 +350,10 @@ p.status-complete {
 }
 
 footer {
-	position: sticky;
-	top: 95vh;
+	margin-top: 40px;
+	padding: 16px 0;
 	text-align: center;
+	color: #000;
 }
 
 svg {

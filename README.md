@@ -18,4 +18,4 @@
 
 ## API Endpoints:
 
-[Repositório Sopport App BackEnd](https://github.com/Stentzler/MERN_ticket_manager_API)
+[Repositório Support App BackEnd](https://github.com/Stentzler/MERN_ticket_manager_API)
